@@ -8,7 +8,7 @@
 
 ## Summary of Findings
 
-> During exploration of the dataset, the following findings were discovere:
+> During exploration of the dataset, the following findings were discovered:
 > * The number of rides per user was greater for subscribers compared to customers.
 > * Larger number of rides taken occured during weekdays (`Monday` to `friday`) with most number of rides taken on `Tuesday` than on weekends (`Saturday` and `Sunday`).
 > * Most rides were usually taken in daytime between the `07:00 am` and `07:00` pm.
