@@ -16,7 +16,7 @@
 > * Longer rides were preferably taken by customers even though subscribers took a larger number of rides.
 > * Longer rides were also preferably taken by customers on weekends (`Saturday` and `Sunday`) than weekdays (`Monday` to `Friday`)
 > * The longest rides were taken by by customers in the month of June.
-> * Longer rides were taken by customers between `01:00`am ato `)5:00`am.
+> * Longer rides were taken by customers between `01:00`am to `5:00`am.
 > * The Longest rides were also taken by customers at the following start stations: `San Francisco Ferry Building (Harry Bridges Plaza)`, `The Embarcadero at Sansome St` and `Montgomery St BART Station (Market St at 2nd St).
 
 
